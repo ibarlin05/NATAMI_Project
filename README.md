@@ -1,8 +1,8 @@
 # NATAMI_Project
 Proyecto de pagina web, estilo blog
 
-USUARIO 
+USUARIO:
 Ivarlyn
 
-CONTRASEÑA
+CONTRASEÑA:
 123456
